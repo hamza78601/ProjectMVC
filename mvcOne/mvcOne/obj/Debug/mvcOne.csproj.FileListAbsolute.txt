@@ -1,0 +1,467 @@
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\mvcOne.dll.config
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\mvcOne.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\mvcOne.pdb
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Antlr3.Runtime.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\EntityFramework.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\EntityFramework.SqlServer.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Web.Infrastructure.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Newtonsoft.Json.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Owin.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.Helpers.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.Mvc.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.Optimization.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.Razor.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.WebPages.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\WebGrease.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.Helpers.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.Mvc.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.Optimization.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.Razor.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.WebPages.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Antlr3.Runtime.pdb
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Newtonsoft.Json.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\EntityFramework.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\EntityFramework.SqlServer.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.csprojResolveAssemblyReference.cache
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.dll
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.initialModel.resources
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.csproj.GenerateResource.Cache
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addMembershipTypeAndDataAnotaion.resources
+c:\users\uzain\documents\visual studio 2013\Projects\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.PopulateMembershipType.resources
+Z:\6624-Sem5\mvcOne\mvcOne\bin\mvcOne.dll.config
+Z:\6624-Sem5\mvcOne\mvcOne\bin\mvcOne.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\mvcOne.pdb
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Antlr3.Runtime.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\EntityFramework.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\EntityFramework.SqlServer.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Web.Infrastructure.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Newtonsoft.Json.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Owin.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.Helpers.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.Mvc.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.Optimization.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.Razor.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.WebPages.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\WebGrease.dll
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.Helpers.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.Mvc.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.Optimization.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.Razor.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.WebPages.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Antlr3.Runtime.pdb
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Newtonsoft.Json.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\EntityFramework.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\EntityFramework.SqlServer.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\6624-Sem5\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\6624-Sem5\mvcOne\mvcOne\obj\Debug\mvcOne.csprojResolveAssemblyReference.cache
+Z:\6624-Sem5\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.initialModel.resources
+Z:\6624-Sem5\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addMembershipTypeAndDataAnotaion.resources
+Z:\6624-Sem5\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.PopulateMembershipType.resources
+Z:\6624-Sem5\mvcOne\mvcOne\obj\Debug\mvcOne.csproj.GenerateResource.Cache
+Z:\6624-Sem5\mvcOne\mvcOne\obj\Debug\mvcOne.dll
+Z:\6624-Sem5\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\mvcOne.dll.config
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\mvcOne.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\mvcOne.pdb
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Antlr3.Runtime.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\AutoMapper.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\EntityFramework.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\EntityFramework.SqlServer.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Newtonsoft.Json.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Owin.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Net.Http.Formatting.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Helpers.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Http.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Http.WebHost.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Mvc.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Optimization.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Razor.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.WebPages.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\WebGrease.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\AutoMapper.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Net.Http.Formatting.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Http.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Http.WebHost.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Helpers.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Mvc.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Optimization.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.Razor.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.WebPages.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Antlr3.Runtime.pdb
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Newtonsoft.Json.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\EntityFramework.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\EntityFramework.SqlServer.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\obj\Debug\mvcOne.csprojResolveAssemblyReference.cache
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.initialModel.resources
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addMembershipTypeAndDataAnotaion.resources
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.PopulateMembershipType.resources
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\obj\Debug\mvcOne.csproj.GenerateResource.Cache
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\obj\Debug\mvcOne.dll
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
+C:\Users\uzain\Desktop\New folder\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.seedingUsers.resources
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\mvcOne.dll.config
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\mvcOne.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\mvcOne.pdb
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Antlr3.Runtime.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\AutoMapper.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\EntityFramework.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\EntityFramework.SqlServer.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Newtonsoft.Json.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Owin.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Net.Http.Formatting.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Helpers.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Http.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Http.WebHost.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Mvc.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Optimization.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Razor.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.WebPages.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\WebGrease.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\AutoMapper.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Net.Http.Formatting.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Http.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Http.WebHost.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Helpers.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Mvc.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Optimization.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.Razor.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.WebPages.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Antlr3.Runtime.pdb
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Newtonsoft.Json.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\EntityFramework.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\EntityFramework.SqlServer.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\obj\Debug\mvcOne.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.initialModel.resources
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addMembershipTypeAndDataAnotaion.resources
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.PopulateMembershipType.resources
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.seedingUsers.resources
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\obj\Debug\mvcOne.csproj.GenerateResource.Cache
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\obj\Debug\mvcOne.dll
+C:\Users\asp.APTECHNK\Desktop\Project9-6-2018\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.dll.config
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.pdb
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Antlr3.Runtime.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\AutoMapper.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.SqlServer.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Newtonsoft.Json.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Owin.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Net.Http.Formatting.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Helpers.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.WebHost.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Mvc.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Optimization.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Razor.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\WebGrease.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\AutoMapper.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Net.Http.Formatting.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.WebHost.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Helpers.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Mvc.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Optimization.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Razor.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Antlr3.Runtime.pdb
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Newtonsoft.Json.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.SqlServer.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.csprojResolveAssemblyReference.cache
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.initialModel.resources
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addMembershipTypeAndDataAnotaion.resources
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.PopulateMembershipType.resources
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.seedingUsers.resources
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.csproj.GenerateResource.Cache
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.dll
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addingfieldinRegform.resources
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.dll.config
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.pdb
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Antlr3.Runtime.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\AutoMapper.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.SqlServer.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Newtonsoft.Json.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Owin.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Net.Http.Formatting.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Helpers.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.WebHost.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Mvc.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Optimization.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Razor.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\WebGrease.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\AutoMapper.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Net.Http.Formatting.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.WebHost.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Helpers.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Mvc.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Optimization.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Razor.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Antlr3.Runtime.pdb
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Newtonsoft.Json.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.SqlServer.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.initialModel.resources
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addMembershipTypeAndDataAnotaion.resources
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.PopulateMembershipType.resources
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.seedingUsers.resources
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addingfieldinRegform.resources
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.csproj.GenerateResource.Cache
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.dll
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
+C:\Users\Muhammad Shees Aslam\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.AddingMoviesAndType.resources
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.dll.config
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\mvcOne.pdb
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Antlr3.Runtime.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\AutoMapper.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.SqlServer.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Web.Infrastructure.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Newtonsoft.Json.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Owin.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Net.Http.Formatting.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Helpers.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.WebHost.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Mvc.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Optimization.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Razor.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\WebGrease.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\AutoMapper.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Net.Http.Formatting.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Http.WebHost.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Helpers.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Mvc.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Optimization.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.Razor.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Deployment.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\System.Web.WebPages.Razor.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Antlr3.Runtime.pdb
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Newtonsoft.Json.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\EntityFramework.SqlServer.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Google.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.csprojResolveAssemblyReference.cache
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.initialModel.resources
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addMembershipTypeAndDataAnotaion.resources
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.PopulateMembershipType.resources
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.seedingUsers.resources
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addingfieldinRegform.resources
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.AddingMoviesAndType.resources
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.csproj.GenerateResource.Cache
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.dll
+D:\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.pdb
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.AddingMoviesAndType.resources
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.addingRental.resources
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.updatingMovieColumns.resources
+C:\Users\asp.APTECHNK\Desktop\Asp.Net mvcOne API (Code 1st Approach)\mvcOne\mvcOne\obj\Debug\mvcOne.Migrations.updatingMovieColumn3.resources

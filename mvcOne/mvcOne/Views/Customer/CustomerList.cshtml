@@ -1,0 +1,53 @@
+﻿@model IEnumerable<mvcOne.Models.Customer>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link href="~/Content/DataTables/css/dataTables.bootstrap4.css" rel="stylesheet" />
+
+<h2>Customer List</h2>
+<table id="customers" class="table table-dark table-striped table-hover" style="width:100%">
+    <thead>
+        <tr>
+            <td>Name</td><td>Membership Type</td><td>Delete</td>
+        </tr>
+    </thead>
+    <tbody></tbody>
+    @*<tbody>
+        @foreach (var customer in @Model)
+        {
+            <tr>
+        <td>@Html.ActionLink(@customer.Name, "Edit", "Customer", new { id = customer.Id }, null)</td>
+        <td>@customer.MembershipType.MembershipTypeNmae</td>
+        <td><button data-customer-id="@customer.Id" class="js-delete btn btn-danger ">Delete</button></td>
+            </tr>
+        }
+    </tbody>*@
+</table>
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            var table = $("#customers").DataTable({
+                ajax: {
+                    url: "/api/customers",
+                    dataSrc: ""
+                },
+                columns: [
+                    {
+                        data: "name",                                          
+                   },
+                
+                
+                ]
+            });
+            $("#customers_wrapper").removeClass("form-inline").addClass("form-block");
+          
+        });
+       
+    </script>
+<script src="~/Scripts/DataTables/jquery.dataTables.js"></script>
+<script src="~/Scripts/DataTables/dataTables.bootstrap4.js"></script>
+
+    
+      }
